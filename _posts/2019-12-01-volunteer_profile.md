@@ -3,7 +3,7 @@ title: "Engaging Senior Volunteers Volunteer profile"
 date: 2019-12-01
 tags: [seniors, volunteers, datascience, dataanalysis]
 header:
-  image: "/images/SeniorVol.jpg"
+  image: "/images/senior_vol_edit.jpg"
 excerpt: "Senior Volunteers, Data Analytics"
 mathjax: "true"
 ---
