@@ -1,10 +1,10 @@
 ---
 title: "AMES Housing data - modelling exercise"
 date: 2019-09-25
-tags: [data wrangling, data science, modelling]
+tags: [data analysis, data science, modelling]
 header:
   image: "/images/project2.jpg"
-excerpt: "Data Wrangling, Data Science, Modelling"
+excerpt: "Data Analysis, Data Science, Modelling"
 mathjax: "true"
 ---
 
@@ -46,6 +46,6 @@ The model may be further refined by:
     - Polynomial with degree of 3
     - Try other known models of regression
 
-### To view the code developed in the project,
+### To view the code developed in the project
 - kindly click <a href="https://github.com/BhavNike/dsi10_project2/blob/master/code/Ames%20Housing_part%201%20Data%20Cleaning.ipynb"> here </a> for EDA details
 - kindly click <a href="https://github.com/BhavNike/dsi10_project2/blob/master/code/Ames%20Housing_part%202%20Modelling.ipynb"> here </a> for modelling details

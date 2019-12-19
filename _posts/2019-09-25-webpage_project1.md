@@ -1,10 +1,10 @@
 ---
 title: "Comparison of US college admission tests ACT and SAT(2017/2018)"
 date: 2019-09-25
-tags: [data wrangling, data science, data visualisation]
+tags: [data analysis, data science, data visualisation]
 header:
   image: "/images/project1.jpg"
-excerpt: "Data Wrangling, Data Science, Data Visualisation"
+excerpt: "Data Analysis, Data Science, Data Visualisation"
 mathjax: "true"
 ---
 
@@ -62,4 +62,5 @@ Strategies to convince state officials that SAT should be their choice:
 
 
 
-### To view the code developed in the project, kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project1_code_link.ipynb"> here </a>
+### To view the code developed in the project
+kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project1_code_link.ipynb"> here </a>
