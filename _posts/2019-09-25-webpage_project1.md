@@ -22,11 +22,11 @@ This study is also an opportunity to assess the performance of the 2017 and 2018
 
 ### Reference:
 
-https://en.wikipedia.org/wiki/List_of_standardized_tests_in_the_United_States#Admissions_tests
+ <a href="https://en.wikipedia.org/wiki/List_of_standardized_tests_in_the_United_States#Admissions_tests">https://en.wikipedia.org/wiki/List_of_standardized_tests_in_the_United_States#Admissions_tests</a>
 
-https://www.usnews.com/education/best-colleges/articles/2018-01-23/how-to-take-the-sat-act-for-free
+ <a href="https://www.usnews.com/education/best-colleges/articles/2018-01-23/how-to-take-the-sat-act-for-free">https://www.usnews.com/education/best-colleges/articles/2018-01-23/how-to-take-the-sat-act-for-free</a>
 
-https://www.edweek.org/ew/articles/2017/09/07/us-students-scores-inch-up-on-latest.html
+<a href="https://www.edweek.org/ew/articles/2017/09/07/us-students-scores-inch-up-on-latest.html">https://www.edweek.org/ew/articles/2017/09/07/us-students-scores-inch-up-on-latest.html </a>
 
 SAT is increasingly the ‘preferred’ test with 100% participation in 5 states currently. However, the SAT board would like to expand and reach out to other states for more participants to adopt SAT as their preferred choice.
 
@@ -60,32 +60,9 @@ Strategies to convince state officials that SAT should be their choice:
 
 - Feedback from colleges / institutes of higher learning on how SAT can be made more holistic in nature so as to cater to their admission criteria
 
-### Data Dictionary:
-
-'state': Dataset of type string, used in both ACT and SAT lists and is indicative of the name of state in the United States of America
-
-'act2017_participation' / 'act2018_participation': Datatype float, represents the average participation rate (in %) of the cohort of students in ACT exam for the year.
-
-'act2017_eng'/'act2018_eng': Datatype float, represents the average score of student cohort in the state in English in ACT exam for the year.
-
-'act2017_math' /'act2018_math': Datatype float, represents the average score of student cohort in the state in Math in ACT exam for the year.
-
-'act2017_reading' /'act2018_reading': Datatype float, represents the average score of student cohort in the state in Reading in ACT exam for the year.
-
-'act2017_science' /'act2018_science': Datatype float, represents the average score of student cohort in the state in Science in ACT exam for the year.
-
-act2017_composite' /'act2018_composite': Datatype float, represents the average Composite score of student cohort in the state in ACT exam for the year.
-
-'sat2017_participation' /'sat2018_participation': Datatype float, represents the average participation rate (in %) of the cohort of students in SAT exam for the year.
-
-'sat2017_evi_based_read_write' /'sat2018_evi_based_read_write': Datatype float, represents the average score of student cohort in the state in Evidence based Reading and Writing in SAT exam for the year.
-
-'sat2017_math' /'sat2018_math': Datatype float, represents the average score of student cohort in the state in Math in SAT exam for the year.
-
-'sat2017_total' /'sat2018_total': Datatype float, represents the average total score of student cohort in the state in SAT exam for the year.
 
 
-### To view the code developed in the project, kindly click here
+### To view the code developed in the project, kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project1_code.md"> here </a>
 
 
 ```python

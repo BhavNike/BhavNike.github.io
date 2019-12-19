@@ -11,8 +11,7 @@ mathjax: "true"
 
 # Project 1: SAT & ACT Analysis
 
-<h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Project-1:-SAT-&amp;-ACT-Analysis" data-toc-modified-id="Project-1:-SAT-&amp;-ACT-Analysis-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Project 1: SAT &amp; ACT Analysis</a></span><ul class="toc-item"><li><span><a href="#Background" data-toc-modified-id="Background-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Background</a></span></li><li><span><a href="#Problem-statement:" data-toc-modified-id="Problem-statement:-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Problem statement:</a></span></li><li><span><a href="#Importing-relevant-libraries" data-toc-modified-id="Importing-relevant-libraries-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Importing relevant libraries</a></span></li><li><span><a href="#2017-Data-Import-and-Cleaning" data-toc-modified-id="2017-Data-Import-and-Cleaning-1.4"><span class="toc-item-num">1.4&nbsp;&nbsp;</span>2017 Data Import and Cleaning</a></span><ul class="toc-item"><li><span><a href="#Read-In-SAT-&amp;-ACT--Data" data-toc-modified-id="Read-In-SAT-&amp;-ACT--Data-1.4.1"><span class="toc-item-num">1.4.1&nbsp;&nbsp;</span>Read In SAT &amp; ACT  Data</a></span></li><li><span><a href="#Display-Data" data-toc-modified-id="Display-Data-1.4.2"><span class="toc-item-num">1.4.2&nbsp;&nbsp;</span>Display Data</a></span></li><li><span><a href="#Description-of-Data" data-toc-modified-id="Description-of-Data-1.4.3"><span class="toc-item-num">1.4.3&nbsp;&nbsp;</span>Description of Data</a></span></li><li><span><a href="#To-Fix-any-errors-identified" data-toc-modified-id="To-Fix-any-errors-identified-1.4.4"><span class="toc-item-num">1.4.4&nbsp;&nbsp;</span>To Fix any errors identified</a></span></li><li><span><a href="#7.-Renaming-Columns" data-toc-modified-id="7.-Renaming-Columns-1.4.5"><span class="toc-item-num">1.4.5&nbsp;&nbsp;</span>7. Renaming Columns</a></span></li><li><span><a href="#Creating-a-data-dictionary" data-toc-modified-id="Creating-a-data-dictionary-1.4.6"><span class="toc-item-num">1.4.6&nbsp;&nbsp;</span>Creating a data dictionary</a></span></li><li><span><a href="#Dropping-extra-rows" data-toc-modified-id="Dropping-extra-rows-1.4.7"><span class="toc-item-num">1.4.7&nbsp;&nbsp;</span>Dropping extra rows</a></span></li><li><span><a href="#Merging-Dataframes" data-toc-modified-id="Merging-Dataframes-1.4.8"><span class="toc-item-num">1.4.8&nbsp;&nbsp;</span>Merging Dataframes</a></span></li><li><span><a href="#Saving-dataframe-as-csv" data-toc-modified-id="Saving-dataframe-as-csv-1.4.9"><span class="toc-item-num">1.4.9&nbsp;&nbsp;</span>Saving dataframe as csv</a></span></li></ul></li><li><span><a href="#2018-Data-Import-and-Cleaning" data-toc-modified-id="2018-Data-Import-and-Cleaning-1.5"><span class="toc-item-num">1.5&nbsp;&nbsp;</span>2018 Data Import and Cleaning</a></span><ul class="toc-item"><li><span><a href="#Combining-2017-and-2018-data-into-a-single-dataframe" data-toc-modified-id="Combining-2017-and-2018-data-into-a-single-dataframe-1.5.1"><span class="toc-item-num">1.5.1&nbsp;&nbsp;</span>Combining 2017 and 2018 data into a single dataframe</a></span></li></ul></li><li><span><a href="#Exploratory-Data-Analysis" data-toc-modified-id="Exploratory-Data-Analysis-1.6"><span class="toc-item-num">1.6&nbsp;&nbsp;</span>Exploratory Data Analysis</a></span><ul class="toc-item"><li><span><a href="#Summary-Statistics" data-toc-modified-id="Summary-Statistics-1.6.1"><span class="toc-item-num">1.6.1&nbsp;&nbsp;</span>Summary Statistics</a></span><ul class="toc-item"><li><span><a href="#Manually-calculating-standard-deviation" data-toc-modified-id="Manually-calculating-standard-deviation-1.6.1.1"><span class="toc-item-num">1.6.1.1&nbsp;&nbsp;</span>Manually calculating standard deviation</a></span></li><li><span><a href="#Investigating-trends-in-the-data" data-toc-modified-id="Investigating-trends-in-the-data-1.6.1.2"><span class="toc-item-num">1.6.1.2&nbsp;&nbsp;</span>Investigating trends in the data</a></span></li></ul></li></ul></li><li><span><a href="#Data-Visualisations" data-toc-modified-id="Data-Visualisations-1.7"><span class="toc-item-num">1.7&nbsp;&nbsp;</span>Data Visualisations</a></span><ul class="toc-item"><li><span><a href="#Use-Seaborn's-heatmap-with-pandas-.corr()-to-visualize-correlations-between-all-numeric-features" data-toc-modified-id="Use-Seaborn's-heatmap-with-pandas-.corr()-to-visualize-correlations-between-all-numeric-features-1.7.1"><span class="toc-item-num">1.7.1&nbsp;&nbsp;</span>Use Seaborn's heatmap with pandas <code>.corr()</code> to visualize correlations between all numeric features</a></span></li><li><span><a href="#Defining-a-custom-function-to-subplot-histograms" data-toc-modified-id="Defining-a-custom-function-to-subplot-histograms-1.7.2"><span class="toc-item-num">1.7.2&nbsp;&nbsp;</span>Defining a custom function to subplot histograms</a></span></li><li><span><a href="#Plotting-and-interpretting-scatter-plots" data-toc-modified-id="Plotting-and-interpretting-scatter-plots-1.7.3"><span class="toc-item-num">1.7.3&nbsp;&nbsp;</span>Plotting and interpretting scatter plots</a></span></li><li><span><a href="#Plotting-and-interpretting-boxplots" data-toc-modified-id="Plotting-and-interpretting-boxplots-1.7.4"><span class="toc-item-num">1.7.4&nbsp;&nbsp;</span>Plotting and interpretting boxplots</a></span></li></ul></li><li><span><a href="#Descriptive-and-Inferential-Statistics" data-toc-modified-id="Descriptive-and-Inferential-Statistics-1.8"><span class="toc-item-num">1.8&nbsp;&nbsp;</span>Descriptive and Inferential Statistics</a></span><ul class="toc-item"><li><span><a href="#Studying-plots-for-Normal-distribution" data-toc-modified-id="Studying-plots-for-Normal-distribution-1.8.1"><span class="toc-item-num">1.8.1&nbsp;&nbsp;</span>Studying plots for Normal distribution</a></span></li><li><span><a href="#Limitations-of-Data" data-toc-modified-id="Limitations-of-Data-1.8.2"><span class="toc-item-num">1.8.2&nbsp;&nbsp;</span>Limitations of Data</a></span></li><li><span><a href="#Statistical-Evaluation-of-Distributions" data-toc-modified-id="Statistical-Evaluation-of-Distributions-1.8.3"><span class="toc-item-num">1.8.3&nbsp;&nbsp;</span>Statistical Evaluation of Distributions</a></span></li></ul></li><li><span><a href="#Conclusions-and-Recommendations" data-toc-modified-id="Conclusions-and-Recommendations-1.9"><span class="toc-item-num">1.9&nbsp;&nbsp;</span>Conclusions and Recommendations</a></span></li></ul></li></ul></div>
+
 
 ## Background
 
@@ -27,7 +26,7 @@ A common myth is that elite colleges prefer the SAT over the ACT. In reality, al
 
 It is also sometimes argued that, while colleges don’t admit to preferring the SAT, the fact that many more students accepted to competitive colleges submit the SAT than ACT seems to indicate there is a bias.
 
-reference: https://www.collegeraptor.com/getting-in/articles/act-sat/act-vs-sat-which-college-entrance-exam-is-more-popular/
+reference:<a href="https://www.collegeraptor.com/getting-in/articles/act-sat/act-vs-sat-which-college-entrance-exam-is-more-popular/"> https://www.collegeraptor.com/getting-in/articles/act-sat/act-vs-sat-which-college-entrance-exam-is-more-popular/</a>
 
 
 
@@ -60,19 +59,6 @@ sns.set_style('whitegrid')
 Read in the `sat_2017.csv` and `act_2017.csv` files and assign them to appropriately named pandas dataframes.
 
 
-```python
-pwd
-```
-
-
-
-
-    'C:\\Users\\bhavn\\Desktop\\dsi_projects\\project 1\\code'
-
-
-
-
-```python
 #converting csv file to dataframe
 act2017 = pd.read_csv('../data/act_2017.csv')
 sat2017 = pd.read_csv('../data/sat_2017.csv')
