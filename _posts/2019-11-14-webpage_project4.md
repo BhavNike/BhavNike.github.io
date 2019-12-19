@@ -8,7 +8,7 @@ excerpt: "Data Analysis, Data Science, Predictive Models, Geodata"
 mathjax: "true"
 ---
 
-#Where next WNV  (Kaggle dataset)
+## Where next WNV?  (Kaggle dataset)
 
 ## Background
 In 2007-08, when the city of Chicago faced an epidemic of West Nile Virus, the Department of Public Health set up a surveillance and control system. The local public officials put together a team to study the spread of the epidemic and predict the occurence of mosquitoes carrying the virus and hence assist to halt the spread of the WNV.
