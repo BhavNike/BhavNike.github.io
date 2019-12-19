@@ -1,10 +1,10 @@
 ---
 title: "AMES Housing data - modelling exercise"
-date: 2019-09-25
-tags: [data analysis, data science, modelling]
+date: 2019-10-15
+tags: [data analysis, data science, regression models]
 header:
-  image: "images/project2.jpg"
-excerpt: "Data Analysis, Data Science, Modelling"
+  image: "/images/project2.jpg"
+excerpt: "Data Analysis, Data Science, Regression Models"
 mathjax: "true"
 ---
 

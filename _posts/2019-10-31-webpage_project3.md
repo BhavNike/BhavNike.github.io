@@ -1,13 +1,12 @@
 ---
 title: "Classification of web posts"
-date: 2019-09-25
+date: 2019-10-31
 tags: [data analysis, data science, classification models]
 header:
-  image: "/images/project3.jpg"
+  image: "/images/project4.jpg"
 excerpt: "Data Analysis, Data Science, Classification Models"
 mathjax: "true"
 ---
-
 
 
 ## Introduction
