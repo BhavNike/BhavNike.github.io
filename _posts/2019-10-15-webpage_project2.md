@@ -3,7 +3,7 @@ title: "AMES Housing data - modelling exercise"
 date: 2019-09-25
 tags: [data analysis, data science, modelling]
 header:
-  image: "/images/project2.jpg"
+  image: "./images/project2.jpg"
 excerpt: "Data Analysis, Data Science, Modelling"
 mathjax: "true"
 ---
