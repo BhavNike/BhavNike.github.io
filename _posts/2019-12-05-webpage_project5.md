@@ -39,33 +39,33 @@ K means clustering was used to do the clustering of volunteers
 
 ### Profile of volunteer:
 
-    Membership has increased in last 3 years by over 250% and the interests of the volunteers are varied in nature.
-    Currently, th volunteers are largely Chinese-speaking volunteers (57%), with greater number of women (62%).
-    Among the 5897 volunteers who have registered since 2017, 39% have indicated that they have post secondary qualifications.
-    77% of volunteers continue to remain active in 2019. The average age of volunteers in 68 - 74 years
+Membership has increased in last 3 years by over 250% and the interests of the volunteers are varied in nature.
+Currently, th volunteers are largely Chinese-speaking volunteers (57%), with greater number of women (62%).
+Among the 5897 volunteers who have registered since 2017, 39% have indicated that they have post secondary qualifications.
+77% of volunteers continue to remain active in 2019. The average age of volunteers in 68 - 74 years
 
 ### Cluster of volunteers:
 
-    Guide_leads : regularly volunteers over 150 hours in a year, involved in senior guiding, cyberguide and administrative work (to smaller extent).
-    Cyber_champs: regularly volunteers over 600 hours in a year, involved in cyberguide and other administrative work.
-    All_rounders : regularly volunteers over 70 hours and is involved in multiple activities - senior guiding, enriching lives of seniors programe, mentally disadvantaged outreach programme and mentoring.
-    Volunteer_at_leisure: occasional volunteer, volunteers about 5-10 hours in a year in one or two events
+Guide_leads : regularly volunteers over 150 hours in a year, involved in senior guiding, cyberguide and administrative work (to smaller extent).
+Cyber_champs: regularly volunteers over 600 hours in a year, involved in cyberguide and other administrative work.
+All_rounders : regularly volunteers over 70 hours and is involved in multiple activities - senior guiding, enriching lives of seniors programe, mentally disadvantaged outreach programme and mentoring.
+Volunteer_at_leisure: occasional volunteer, volunteers about 5-10 hours in a year in one or two events
 
 'Cyber_champs' and 'Guide_leads' volunteers have been volunteering for over 10 years. 'All_rounders' and 'Volunteer_at_leisure' have bene volunteering for less than 10 years
 
 ## Recommendations
 
-    Range of activities need to increase to engage volunteers and prevent dropout - traditionally this has been about 25%
-    Volunteers coming with professional skills can be engaged in specialised areas of administrative and consulting work
-    Support other smaller Social Service Agencies who have needs for volunteers
-    Innovative programmes based on feedback from existing volunteers
-    Localised volunteering opportunities within neighbourhood may receive higher response
+Range of activities need to increase to engage volunteers and prevent dropout - traditionally this has been about 25%
+Volunteers coming with professional skills can be engaged in specialised areas of administrative and consulting work
+Support other smaller Social Service Agencies who have needs for volunteers
+Innovative programmes based on feedback from existing volunteers
+Localised volunteering opportunities within neighbourhood may receive higher response
 
 ## Limitations
 
-    No health information available – can use to assess suitability of activities for those with impairments
-    Feedback from existing volunteers not included – will be useful to study how programmes can be revitalised, identify any trainings needed
-    Volunteer activity of individuals may not be the complete picture - members engaged in other organisations / doing volunteering on their own initiative
+No health information available – can use to assess suitability of activities for those with impairments
+Feedback from existing volunteers not included – will be useful to study how programmes can be revitalised, identify any trainings needed
+Volunteer activity of individuals may not be the complete picture - members engaged in other organisations / doing volunteering on their own initiative
 
 ## To view the code developed in the project
 - kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project5_volunteer_activity.ipynb"> here </a> for volunteer activity details
