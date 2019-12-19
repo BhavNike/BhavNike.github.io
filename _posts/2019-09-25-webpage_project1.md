@@ -3,7 +3,7 @@ title: "Comparison of US college admission tests ACT and SAT(2017/2018)"
 date: 2019-09-25
 tags: [data analysis, data science, data visualisation]
 header:
-  image: https://github.com/BhavNike/BhavNike.github.io/blob/master/images/project1.JPG
+  image: "/blob/master/images/project1.JPG"
 excerpt: "Data Analysis, Data Science, Data Visualisation"
 mathjax: "true"
 ---
