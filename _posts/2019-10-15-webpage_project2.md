@@ -8,6 +8,8 @@ excerpt: "Data Analysis, Data Science, Regression Models"
 mathjax: "true"
 ---
 
+#Kaggle challenge - AMES HOusing data
+
 ## Background:
 The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses in the town of Ames, Iowa state USA.
 
