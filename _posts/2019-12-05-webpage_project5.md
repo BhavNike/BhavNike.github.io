@@ -70,3 +70,7 @@ Volunteer activity of individuals may not be the complete picture - members enga
 ## To view the code developed in the project
 - kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project5_volunteer_activity.ipynb"> here </a> for volunteer activity details
 - kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project5_volunteer_profile.ipynb"> here </a> for volunteer profile
+
+### To get an overview of the project
+kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/images/Engaging%20Senior%20Volunteers.pdf"> here </a>
+
