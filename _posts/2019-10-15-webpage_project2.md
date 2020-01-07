@@ -51,3 +51,6 @@ The model may be further refined by:
 ### To view the code developed in the project
 - kindly click <a href="https://github.com/BhavNike/dsi10_project2/blob/master/code/Ames%20Housing_part%201%20Data%20Cleaning.ipynb"> here </a> for EDA details
 - kindly click <a href="https://github.com/BhavNike/dsi10_project2/blob/master/code/Ames%20Housing_part%202%20Modelling.ipynb"> here </a> for modelling details
+
+### To get an overview of the project
+kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/images/Ames%20Housing%20Kaggle%20Dataset.pdf"> here </a>
