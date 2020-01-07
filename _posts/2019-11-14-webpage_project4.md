@@ -50,3 +50,8 @@ Further study with more data can be done using neural network (possible to impro
 ### To view the code developed in the project
 - kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/Project4Part1.ipynb"> here </a> for data cleaning and feature engineering details
 - kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/Project4Part2.ipynb"> here </a> for modelling details
+
+### To get an overview of the project
+kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/images/Safe%20from%20WnV.pdf"> here </a>
+
+
