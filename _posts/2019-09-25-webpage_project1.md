@@ -64,3 +64,7 @@ Strategies to convince state officials that SAT should be their choice:
 
 ### To view the code developed in the project
 kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/code/project1_code_link.ipynb"> here </a>
+
+### To get an overview of the project
+kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/images/Making%20SAT%20preferred%20option.pdf"> here </a>
+
