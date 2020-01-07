@@ -36,3 +36,7 @@ There are multiple applications to such classification models. There are used in
 ### To view the code developed in the project
 - kindly click <a href="https://github.com/BhavNike/dsi10_project3/blob/master/code/project3%20Notebook_1_getting%20data.ipynb"> here </a> for data collection
 - kindly click <a href="https://github.com/BhavNike/dsi10_project3/blob/master/code/project3_Notebook2_data_cleaning_n_modelling.ipynb"> here </a> for EDA and modelling details
+
+### To get an overview of the project
+kindly click <a href="https://github.com/BhavNike/BhavNike.github.io/blob/master/images/Misclassification%20of%20webposts.pdf"> here </a>
+
